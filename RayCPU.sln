@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RayCPU", "RayCPU\RayCPU.csproj", "{04270C3E-5CA2-4646-895C-D84C3EFBFBBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04270C3E-5CA2-4646-895C-D84C3EFBFBBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04270C3E-5CA2-4646-895C-D84C3EFBFBBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04270C3E-5CA2-4646-895C-D84C3EFBFBBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04270C3E-5CA2-4646-895C-D84C3EFBFBBA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2449E674-1EED-4995-B2D2-CDA5DE091711}
+	EndGlobalSection
+EndGlobal
